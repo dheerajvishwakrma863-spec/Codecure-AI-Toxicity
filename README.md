@@ -1,2 +1,11 @@
 # Codecure-AI-Toxicity
-AI-powered toxicity detection model built with Python to classify non-toxic and toxic content with high accuracy.
+
+## Model Performance
+- **Accuracy:** 92.98%
+- **Algorithm:** Random Forest Classifier
+
+## Visualization
+![Confusion Matrix](result_graph.png)
+
+## Overview
+This project predicts drug toxicity to ensure healthcare safety using AI.
